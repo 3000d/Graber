@@ -3,7 +3,7 @@ Graber i3 RElab
 
 This 3D printer design is base on the Prusa I3 Graber, wich is a laser cut version of Prusa I3.
 
-This version is made for metric fastenings. It contains a Illustrator file with symbols, so that most common shapes can be modified a single time.
+This version is made for metric fastenings. It contains a Illustrator file with symbols, so that most common shapes can be modified a single time. This makes the design parametric - well, sort of.
 
 License
 =======
