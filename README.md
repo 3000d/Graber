@@ -1,4 +1,4 @@
-Graber i3 RElab
+Graber i3000
 =================
 
 This 3D printer design is base on the Prusa I3 Graber, wich is a laser cut version of Prusa I3.
